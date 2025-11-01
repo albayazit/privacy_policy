@@ -36,7 +36,7 @@ We display ads using Yandex Advertising Network (Рекламная сеть Я�
 Yandex may collect and process certain data to show relevant ads, such as:
 - Device identifiers  
 - IP address and approximate location  
-- Usage statistics and app interactions  
+- Usage statistics and app interactions
 
 ### 2. Analytics (AppMetrica)
 We use AppMetrica (by Yandex) for app performance and usage analytics.  
@@ -44,7 +44,9 @@ AppMetrica may collect anonymized information such as:
 - Device model and OS version  
 - Application usage data  
 - Diagnostics and crash reports  
-- Advertising identifiers  
+- Advertising identifiers
+
+More info on [Yandex Ads Privacy Policy](https://yandex.com/legal/international_ads_privacy_policy/en/)
 
 ---
 
