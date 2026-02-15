@@ -1,76 +1,110 @@
-# Privacy Policy for Sabantuy Games – 2 3 4 player  
-**Last updated:** November 24, 2025  
+# Privacy Policy for *Sabantuy Games – 2 3 4 player*  
+**Last updated:** February 15, 2026  
 
-This Privacy Policy describes our policies and procedures on the collection, use, and disclosure of your information when you use Sabantuy Games (the “Service”), and tells you about your privacy rights and how the law protects you. By using the Service, you agree to this Privacy Policy.  
+This Privacy Policy describes how we handle information when you use the mobile game *Sabantuy Games – 2 3 4 player* (the “Service”), available on the App Store and Google Play.
 
-## Interpretation and Definitions  
+By using the Service, you agree to this Privacy Policy.
 
-### Interpretation
-The words with initial capital letters have meanings defined under the following conditions. The following definitions shall have the same meaning regardless of whether they appear in singular or plural.
+---
 
-### Definitions
-- **Application:** *Sabantuy Games – 2 3 4 player* (iOS version) and *Sabantuy Games – 2 3 4 player* (Android version), both provided by the Company.  
-- **Company:** (referred to as “we”, “us” or “our”) refers to the developer of the Application.  
-- **Country:** refers to Russia.  
-- **Device:** any device that can access the Service, such as a smartphone, tablet, or computer.  
-- **Service:** refers to the Application.  
-- **You:** the individual using the Service.  
+## 1. General Information  
 
-## Collecting and Using Your Data  
+The Application is developed and published by the Company (referred to as “we”, “us”, or “our”).  
+Country of operation: Russia.  
 
-We collect limited data necessary to operate and improve the Application. This includes data collected by third-party services integrated into the Application.
+The Application does **not collect, store, process, or transmit any personal data** of users directly.
 
-### Analytics (Yandex AppMetrica)
-We use **Yandex AppMetrica** to collect analytics data on app performance and usage. AppMetrica may collect anonymized information such as:
+---
 
-- Device model and OS version  
-- Application usage data  
-- Diagnostics and crash reports  
-- Advertising identifiers  
-- Technical data required for analytics  
+## 2. Data Collection and Use  
 
-### No Advertising
-The Application does **not** use any advertising services. No advertising data is collected or shared.
+We do **not** collect or store any personal information such as:
 
-## Data Categories Collected (Permissions)  
+- Name  
+- Email address  
+- Phone number  
+- Location data  
+- Contacts  
+- Photos  
+- Messages  
+- Any other personally identifiable information  
 
-Depending on your device and system settings, the Application may access:
+The game functions fully without requiring user accounts or personal data.
 
-- **Usage Data:** interactions with the app  
-- **Diagnostics:** crash and performance data  
-- **Identifiers:** device identifiers for analytics  
+---
 
-The Application **does not request** access to location, camera, microphone, contacts, or other sensitive data.
+## 3. Analytics (AppMetrica SDK)  
 
-## External Links  
+The Application integrates the analytics SDK **Yandex AppMetrica**.  
 
-The Application contains an external link to a feedback form hosted on **Yandex Forms**.  
-Following this link is optional.  
-We do not control external resources and are not responsible for their content or privacy policies.  
-Please review the privacy policy of any third-party site you visit.
+AppMetrica is used **exclusively for analytics and promotion of the game**.  
 
-## Children’s Privacy  
+AppMetrica may automatically collect technical and anonymized information, including:
 
-The Service is intended for general audiences and does not knowingly collect personal data from children.  
-If you believe that a child has provided personal information, contact us so we can delete it.
+- Device type and model  
+- Operating system version  
+- App version  
+- Usage statistics  
+- Crash reports  
+- Advertising identifiers (if enabled on the device)  
+- Technical interaction data  
 
-## Data Transfers and Retention  
+We do not access, store, or process this data ourselves.  
+All analytics data is handled by AppMetrica in accordance with their own privacy policy.
 
-We do not directly store or process personal data.  
-Any information collected by third-party services (such as AppMetrica) is handled according to their own privacy policies and applicable laws.
+---
 
-## Security  
+## 4. Advertising  
 
-We take reasonable measures to ensure the security and integrity of the Application. Since we do not store personal data ourselves, risks of unauthorized access are minimized.
+The Application does **not** display third-party advertisements.  
+No advertising networks are integrated into the game.
 
-## Changes to This Privacy Policy  
+---
+
+## 5. External Links  
+
+The Application contains an external link to Telegram for user feedback:
+
+👉 https://t.me/albayazit?direct  
+
+Opening this link will redirect you to the external Telegram platform.  
+We do not control and are not responsible for the content, privacy policies, or practices of Telegram or any other third-party services.  
+Please review their privacy policy before providing any information.
+
+---
+
+## 6. Children’s Privacy  
+
+The Application is suitable for a general audience.  
+We do not knowingly collect personal data from children.  
+Since we do not collect or store personal information, no child data is processed by us.
+
+---
+
+## 7. Data Storage and Retention  
+
+We do not store user data on our servers.  
+Any technical data automatically collected by AppMetrica is processed and stored by the respective third-party service provider under their own terms.
+
+---
+
+## 8. Security  
+
+As we do not collect or store personal data, risks associated with personal data processing are minimized.  
+We implement reasonable technical measures to maintain the security and integrity of the Application.
+
+---
+
+## 9. Changes to This Privacy Policy  
 
 We may update this Privacy Policy from time to time.  
-Any changes will appear on this page with an updated “Last updated” date.
+Any changes will be posted within the Application or on the distribution platforms with an updated “Last updated” date.
 
-## Contact Us  
+---
 
-If you have questions about this Privacy Policy, you can contact us:
+## 10. Contact Us  
 
-- 📧 Email: **deenle@yandex.ru**  
-- 📢 Telegram: **albayazit**
+If you have any questions about this Privacy Policy or the Application, you can contact us:
+
+📧 Email: **deenle@yandex.ru**  
+💬 Telegram: https://t.me/albayazit?direct  
